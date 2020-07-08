@@ -1,1 +1,4 @@
+### Query Monitor resolution
+```bash
 system_profiler SPDisplaysDataType | awk '/Resolution/{print $2, $3, $4}'
+```
