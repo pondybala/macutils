@@ -1,3 +1,3 @@
 # macutils
 # [vim](vim/vimtips.md)
-# [bash](queries.md)
+# [bash](bash/queries.md)
